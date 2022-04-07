@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-assessment/static/css/main.bc2e441f.css",
+    "main.js": "/react-assessment/static/js/main.a775c89f.js",
+    "static/media/s6.png": "/react-assessment/static/media/s6.3f0c680fffa7d0d042cf.png",
+    "static/media/s4.png": "/react-assessment/static/media/s4.1b707e31a5d5e6d50e15.png",
+    "static/media/s2.png": "/react-assessment/static/media/s2.9c4d8668dad3e92914bf.png",
+    "static/media/s1.png": "/react-assessment/static/media/s1.1d468252b0a330859f74.png",
+    "static/media/s5.png": "/react-assessment/static/media/s5.351c9dbb269d4e7a237b.png",
+    "static/media/s3.png": "/react-assessment/static/media/s3.c68cbe08dbef506958e0.png",
+    "static/media/verify.png": "/react-assessment/static/media/verify.27a7245194df3335d012.png",
+    "index.html": "/react-assessment/index.html",
+    "main.bc2e441f.css.map": "/react-assessment/static/css/main.bc2e441f.css.map",
+    "main.a775c89f.js.map": "/react-assessment/static/js/main.a775c89f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc2e441f.css",
+    "static/js/main.a775c89f.js"
+  ]
+}
